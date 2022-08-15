@@ -1,5 +1,5 @@
 ## QB-Parkingmeter
-Free simple parkingmeter script for QBCore
+Simple parkingmeter script for QBCore
 
 ## Features
 - You can pay parking fee to parkingmeter with qb-target.
