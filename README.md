@@ -1,7 +1,7 @@
 ## QB-Parkingmeter
 Simple parkingmeter script for QBCore
 
-https://i.gyazo.com/8221327ccdd0a99b9556f5e9673df265.png
+![image](https://i.gyazo.com/8221327ccdd0a99b9556f5e9673df265.png)
 
 ## Features
 - You can pay parking fee to parkingmeter with qb-target.
