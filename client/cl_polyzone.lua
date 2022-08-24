@@ -1,6 +1,6 @@
 local ParkingMeters = {
-    -1940238623,
-    2108567945,
+    "prop_parknmeter_01",
+    "prop_parknmeter_02"
 }
 
 exports['qb-target']:AddTargetModel(ParkingMeters, {
