@@ -19,7 +19,7 @@ RegisterNetEvent('qb-parkingmeter:server:payParking', function(pos)
     local src = source
     local Player = QBCore.Functions.GetPlayer(src)
     if Player.Functions.RemoveMoney("cash", 5) then
-        local id = math.random(10000, 99999)
+        local id = #paid+1
         paid[id] = {
             coords = pos,
         }
